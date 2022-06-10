@@ -5,7 +5,7 @@ This repo will contain or contains AI and ML usecases for People Analytics and H
   2. Attrition Prediction
   3. Who to hire?
   4. People Analytics
-  5. Promotion Analytics and Prediction 
+  5. Performance and Promotion Analytics
   6. Feedback and Sentiment
 
 
